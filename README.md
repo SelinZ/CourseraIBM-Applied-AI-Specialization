@@ -1,6 +1,13 @@
-# Flask---Coursera
+# Coursera IBM Applied AI Specialization
 
-Practice of using Python & Flask while completing the IBM AI Developer Professional Certificate on Coursera.
+While completing that course, I get to complete several hands-on assignments on the following topics:
 
-Hands-on Lab: Static Code Analysis
-Hands-on Lab: Practice Session and Assignment on Unit Testing
+Reading and Writing From Files
+Working with Different Formats
+Pandas
+Numpy
+Static Code Analysis with Pylint
+Practice Session and Assignment on Unit Testing
+APIs
+Web Scraping
+Requests HTTP

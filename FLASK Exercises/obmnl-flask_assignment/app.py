@@ -18,6 +18,7 @@ def get_transactions():
     return render_template("transactions.html", transactions=transactions)
 
 # Create operation: Display add transaction form
+# Route to handle the creation of a new transaction
 @app.route("/add", methods=["GET", "POST"])
 def add_transaction():
     # Check if the request method is POST (form submission)
